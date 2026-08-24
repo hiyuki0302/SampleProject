@@ -12,8 +12,6 @@ on:
       - 'add'
     paths:
       - '.github/workflows/**'
-      - 'src/**'
-      - 'action.yaml'
       - 'package-lock.json'
 
 jobs:
