@@ -1,0 +1,11 @@
+name: 'Sample Action'
+description: 'This is a sample'
+
+runs:
+  using: 'node16'
+  main: 'dist/index.js' // packageをjavascriptに変換したファイルがどこにあるか指定
+
+branding:
+  icon: 'check-square'
+  color: 'green'
+
