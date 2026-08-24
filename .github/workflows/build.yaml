@@ -58,4 +58,4 @@ jobs:
           add: '-f ./dist'
           author_name: 'hiyuki0302'
           author_email: 'crypto.streeeet@gmail.com'
-          message: 'build: Build action'
+          message: 'build: Build action!'
