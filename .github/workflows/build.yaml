@@ -48,8 +48,8 @@ jobs:
         run: |
           git config --global user.email "crypto.streeeet@gmail.com"
           git config --global user.name "hiyuki0302"
-          git fetch origin build
-          git switch build
+          git fetch origin release
+          git switch release
           git merge main
           npm install
           npm run build

@@ -3,7 +3,7 @@ description: 'This is a sample'
 
 runs:
   using: 'node16'
-  main: 'dist/index.js' // packageをjavascriptに変換したファイルがどこにあるか指定
+  main: 'dist/index.js' 
 
 branding:
   icon: 'check-square'
