@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 
 app.post('/submit', (req, res) => {
   // Handle form submission logic here
-  res.send('Form submitted successfully!');
+  res.send('Form submitted successfully!!');
 });
 
 app.listen(port, () => {
